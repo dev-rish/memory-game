@@ -1,0 +1,49 @@
+{
+  "difficulty": "easy",
+  "cardsSet": [
+    {
+      "color": "#42fb15",
+      "discovered": false
+    },
+    {
+      "color": "#b3f40a",
+      "discovered": false
+    },
+    {
+      "color": "#b3f40a",
+      "discovered": false
+    },
+    {
+      "color": "#ec1236",
+      "discovered": false
+    },
+    {
+      "color": "#21c114",
+      "discovered": true
+    },
+    {
+      "color": "#ec1236",
+      "discovered": false
+    },
+    {
+      "color": "#21c114",
+      "discovered": true
+    },
+    {
+      "color": "#3fe6b0",
+      "discovered": true
+    },
+    {
+      "color": "#3fe6b0",
+      "discovered": true
+    },
+    {
+      "color": "#42fb15",
+      "discovered": false
+    }
+  ],
+  "errorScore": 4,
+  "cardClicks": 16,
+  "endedAt": null,
+  "createdAt": "2021-06-23T14:53:38.097Z"
+}
